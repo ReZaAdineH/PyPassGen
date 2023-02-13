@@ -40,8 +40,7 @@ Feel free to submit pull requests and contribute to the project. Any contributio
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+For now it is a free project to use.
 
 ## Usage
 
@@ -51,6 +50,3 @@ The script generates a random password of 16 characters and saves it to the file
 
 Feel free to submit pull requests and contribute to the project. Any contributions are welcome and appreciated.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
